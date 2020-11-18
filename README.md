@@ -55,7 +55,7 @@ The goal is to correctly identify digits from a dataset of tens of thousands of 
 
 Project repo: https://github.com/Ededu1984/Digit_recognizer
 
-### [ENEM 2019](https://github.com/Ededu1984/Digit_recognizer)
+### [ENEM 2019](https://github.com/Ededu1984/Imersao-dados-2019)
 
 A sample of the microdata available on the INEP website was created and made available on Alura's GitHub. The objective of this 
 project was to analyze the ENEM data to assess the impact on the enrolled scores for the test.
