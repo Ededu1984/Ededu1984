@@ -6,7 +6,7 @@ I have a self-taught profile, problem solver and passionate about challenges. My
 
 Skills:
 
-- Regression, Classificationo and Clustering, SVM, Decision Tree, Random Forest, Logistic Regression, K-means, Ensemble, ADABoost and XGBoost.
+- Regression, Classification and Clustering: SVM, Decision Tree, Random Forest, Logistic Regression, K-means, Ensemble, ADABoost and XGBoost.
 
 - Feature selection: Lasso, Boruta, Permutation importance and ANOVA.
 
