@@ -44,7 +44,7 @@ Medium: https://medium.com/@ededu84
 
 # My Portfolio Projects
 
-### [Digit recognizer](https://github.com/Ededu1984/Digit_recognizer)
+### [Digit recognizer](https://github.com/Ededu1984/Digit_recognizer) - Finished
 
 Description
 MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
@@ -53,7 +53,7 @@ The goal is to correctly identify digits from a dataset of tens of thousands of 
 
 Project repo: https://github.com/Ededu1984/Digit_recognizer
 
-### [ENEM 2019](https://github.com/Ededu1984/Imersao-dados-2019)
+### [ENEM 2019](https://github.com/Ededu1984/Imersao-dados-2019) - Finished
 
 A sample of the microdata available on the INEP website was created and made available on Alura's GitHub. The objective of this 
 project was to analyze the ENEM data to assess the impact on the enrolled scores for the test.
