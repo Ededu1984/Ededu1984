@@ -42,7 +42,7 @@ Medium: https://medium.com/@ededu84
 
 ---
 
-# Projects
+# My Portfolio Projects
 
 ### [Digit recognizer](https://github.com/Ededu1984/Digit_recognizer)
 
