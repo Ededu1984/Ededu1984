@@ -6,9 +6,11 @@ I have a self-taught profile, problem solver and passionate about challenges. My
 
 Skills:
 
-- Regressão, Classificação and Clustering, SVM, Decision Tree, Random Forest, Lasso, Logistic Regression, K-means, Ensemble, ADABoost and XGBoost.
+- Regression, Classificationo and Clustering, SVM, Decision Tree, Random Forest, Logistic Regression, K-means, Ensemble, ADABoost and XGBoost.
 
-- Neural Networks using Tensorflow and Keras.
+- Feature selection: Lasso, Boruta, Permutation importance and ANOVA.
+
+- Neural Networks using Tensorflow and Keras (CNN and RNN).
 
 - SQL (MySQL and MS SQL Server)
 
@@ -24,10 +26,6 @@ Skills:
 
 - Linux/Ubuntu
 
-
-
-
-:computer: I’m currently learning Data Science and Machine Learning
 
 
 
