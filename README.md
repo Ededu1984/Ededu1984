@@ -59,3 +59,12 @@ A sample of the microdata available on the INEP website was created and made ava
 project was to analyze the ENEM data to assess the impact on the enrolled scores for the test.
 
 Project repo: https://github.com/Ededu1984/Imersao-dados-2019
+
+
+### [Cardiovascular-Disease](https://github.com/Ededu1984/Cardiovascular-Disease) - Ongoing
+
+
+This case was created to investigate the cardiovascular condition of some individuals with the characteristics that commonly produce this kind of disease. This classification model has a dataset composed by 12 features that will 
+support the data scientist to figure out the outcome. In this case, the outcome is the patient has or not cardiovascular disease.
+
+Project repo: https://github.com/Ededu1984/Cardiovascular-Disease
