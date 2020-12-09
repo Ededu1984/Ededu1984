@@ -68,3 +68,11 @@ This case was created to investigate the cardiovascular condition of some indivi
 support the data scientist to figure out the outcome. In this case, the outcome is the patient has or not cardiovascular disease.
 
 Project repo: https://github.com/Ededu1984/Cardiovascular-Disease
+
+
+
+### [Client-Churn-Prediction](https://github.com/Ededu1984/Client-Churn-Prediction) - Ongoing
+
+Project to analyze whether a customer will be churning based on a data set from other customers.
+
+Project repo: https://github.com/Ededu1984/Client-Churn-Prediction
