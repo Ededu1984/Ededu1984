@@ -71,7 +71,7 @@ Project repo: https://github.com/Ededu1984/Cardiovascular-Disease
 
 
 
-### [Client-Churn-Prediction](https://github.com/Ededu1984/Client-Churn-Prediction) - Ongoing
+### [Client-Churn-Prediction](https://github.com/Ededu1984/Client-Churn-Prediction) - Finished
 
 Project to analyze whether a customer will be churning based on a data set from other customers.
 
