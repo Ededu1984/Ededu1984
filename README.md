@@ -47,7 +47,9 @@ Medium: https://medium.com/@ededu84
 
 ### [Client-Churn-Prediction](https://github.com/Ededu1984/Client-Churn-Prediction) - Finished
 
-Project to analyze whether a customer will be in churn situation based on a data set from other customers.
+TopBank is a large fictional banking company. It operates mainly in European countries offering financial products, from bank accounts to investments, including some types of insurance and investment products.
+In general, Churn is a metric that indicates the number of customers who have canceled the contract or have stopped buying your product within a certain period of time. For example, customers who canceled the service contract or after it expired, did not renew it, they are considered churn customers.
+The goal of this project is to predict which customers will be churned.
 
 Project repo: https://github.com/Ededu1984/Client-Churn-Prediction
 
@@ -70,7 +72,7 @@ Project repo: https://github.com/Ededu1984/Imersao-dados-2019
 ### [Brazilian exports](https://github.com/Ededu1984/Brazilian-Exports-and-TFP) - Finished
 
 Comex Stat is a system for consulting and extracting data from Brazilian foreign trade. Detailed data on Brazilian exports and imports are released monthly, extracted from SISCOMEX and based on the declaration of exporters and importers. 
-The goal of this project is to predict the exportation for the upcoming years.
+The goal of this project is to predict the exportation for the upcoming years using time series algorithms.
 The dataset contains all trackings of monthly imports and exports of a range of products (soybeans, soybean meal, soybean oil, corn, wheat and sugar) by brazilian states.
 
 Project repo: https://github.com/Ededu1984/Brazilian-Exports-and-TFP
