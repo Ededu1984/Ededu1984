@@ -44,6 +44,13 @@ Medium: https://medium.com/@ededu84
 
 # My Portfolio Projects
 
+
+### [Client-Churn-Prediction](https://github.com/Ededu1984/Client-Churn-Prediction) - Finished
+
+Project to analyze whether a customer will be in churn situation based on a data set from other customers.
+
+Project repo: https://github.com/Ededu1984/Client-Churn-Prediction
+
 ### [Digit recognizer](https://github.com/Ededu1984/Digit_recognizer) - Finished
 
 Description
@@ -60,6 +67,13 @@ project was to analyze the ENEM data to assess the impact on the enrolled scores
 
 Project repo: https://github.com/Ededu1984/Imersao-dados-2019
 
+### [Brazilian exports](https://github.com/Ededu1984/Brazilian-Exports-and-TFP) - Finished
+
+Comex Stat is a system for consulting and extracting data from Brazilian foreign trade. Detailed data on Brazilian exports and imports are released monthly, extracted from SISCOMEX and based on the declaration of exporters and importers. 
+The goal of this project is to predict the exportation for the upcoming years.
+The dataset contains all trackings of monthly imports and exports of a range of products (soybeans, soybean meal, soybean oil, corn, wheat and sugar) by brazilian states.
+
+Project repo: https://github.com/Ededu1984/Brazilian-Exports-and-TFP
 
 ### [Cardiovascular-Disease](https://github.com/Ededu1984/Cardiovascular-Disease) - Ongoing
 
@@ -68,11 +82,3 @@ This case was created to investigate the cardiovascular condition of some indivi
 support the data scientist to figure out the outcome. In this case, the outcome is the patient has or not cardiovascular disease.
 
 Project repo: https://github.com/Ededu1984/Cardiovascular-Disease
-
-
-
-### [Client-Churn-Prediction](https://github.com/Ededu1984/Client-Churn-Prediction) - Finished
-
-Project to analyze whether a customer will be in churn situation based on a data set from other customers.
-
-Project repo: https://github.com/Ededu1984/Client-Churn-Prediction
