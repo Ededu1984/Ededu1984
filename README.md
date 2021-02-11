@@ -77,7 +77,7 @@ The dataset contains all trackings of monthly imports and exports of a range of 
 
 Project repo: https://github.com/Ededu1984/Brazilian-Exports-and-TFP
 
-### [Object detection Forza Horizon 4](https://github.com/Ededu1984/Brazilian-Exports-and-TFP) - Finished
+### [Object detection Forza Horizon 4](https://github.com/Ededu1984/car_detection_forza_horizon) - Finished
 
 This computer vision project is about a object detection of Forza Horizon 4 gameplay video. Some frameworks and libraries 
 were used such as: OpenCV, YoloV4, Darknet, Tensorflow and Keras. 
