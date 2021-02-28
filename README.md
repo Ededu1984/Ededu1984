@@ -1,33 +1,28 @@
 ### Hi there 👋
 
 
-🔭 I’m currently looking for a new job in data science and machine learning segment since I am a professional in career transition . Experience with Python and Matlab in the academic area for 2 years acquired in my master's degree.
-I have a self-taught profile, problem solver and passionate about challenges. My projects are available here and I've been participating of Machine Learning competitions on the kaggle platform.
-
-Skills:
-
-- Regression, Classification and Clustering: SVM, Decision Tree, Random Forest, Logistic Regression, K-means, Ensemble, ADABoost and XGBoost.
-
-- Feature selection: Lasso, Boruta, Permutation importance and ANOVA.
-
-- Neural Networks using Tensorflow and Keras (CNN and RNN).
-
-- SQL (MySQL and MS SQL Server)
-
-- Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn and Pytorch)
-
-- Spark
-
-- PowerBI and Tableau
-
-- R
-
-- Docker and Virtualenv
-
-- Linux/Ubuntu
+🔭 I’m a professional focused on data science and machine learning where I have been studying since 2019. Experience with Python and Matlab in the academic area for 2 years acquired in my master's degree.
+I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
+I have already developed solutions for important business problems such as detecting fraud in transactions, classifying diseases early, identifying customers in churn, prioritizing customers for cross-selling, object detection and timeseries problems.
 
 
+**Analytical Tools:**
 
+**Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server, MongoDB and Hive.
+
+**Data Processing and Analysis:** R, Python, Spark, Airflow, Databricks.
+
+**Development:** Git, Linux and Docker. 
+
+**Data Vizualization:** Tableau and PowerBI.
+
+**Machine Learning Modeling:** Classification, Regression, Clustering, Time Series, Deep Learning and NLP. 
+
+**Machine Learning Deployment:** AWS Cloud and Google Cloud Platform ( GCP )  
+
+
+**Links:**
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/edson-da-costa-eduardo-20315625/)
 
 
 📫 How to reach me: 
