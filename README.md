@@ -8,9 +8,9 @@ I have already developed solutions for important business problems such as detec
 
 **Analytical Tools:**
 
-**Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server, MongoDB and Hive.
+**Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server and Hive.
 
-**Data Processing and Analysis:** R, Python, Spark, Airflow, Databricks.
+**Data Processing and Analysis:** R, Python, Spark and Airflow.
 
 **Development:** Git, Linux and Docker. 
 
