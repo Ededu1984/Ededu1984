@@ -14,7 +14,7 @@ I have already developed solutions for important business problems such as detec
 
 **Development:** Git, Linux and Docker. 
 
-**Data Vizualization:** Tableau and PowerBI.
+**Data Visualization:** Tableau and PowerBI.
 
 **Machine Learning Modeling:** Classification, Regression, Clustering, Time Series, Deep Learning and NLP. 
 
