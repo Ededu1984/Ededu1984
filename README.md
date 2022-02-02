@@ -14,8 +14,6 @@ I have already developed solutions for important business problems such as detec
 
 **Development:** Git, Linux and Docker. 
 
-**Data Visualization:** Tableau and PowerBI.
-
 **Machine Learning Modeling:** Classification, Regression, Clustering, Time Series, Deep Learning and NLP. 
 
 **Machine Learning Deployment:** AWS Cloud and Google Cloud Platform ( GCP )  
