@@ -38,6 +38,19 @@ Medium: https://medium.com/@ededu84
 
 # My Portfolio Projects
 
+### [Django School API](https://github.com/Ededu1984/Django_API_School) - Finished
+
+This API created in Django Rest Framework is about a fictional school. Token and basic authentications 
+were implemented as well as swagger and redoc documentation.
+
+Project repo: https://github.com/Ededu1984/Django_API_School
+
+### [Object detection Forza Horizon 4](https://github.com/Ededu1984/car_detection_forza_horizon) - Finished
+
+This computer vision project is about a object detection of Forza Horizon 4 gameplay video. Some frameworks and libraries 
+were used such as: OpenCV, YoloV4, Darknet and Numpy. 
+
+Project repo: https://github.com/Ededu1984/car_detection_forza_horizon
 
 ### [Client-Churn-Prediction](https://github.com/Ededu1984/Client-Churn-Prediction) - Finished
 
@@ -47,22 +60,6 @@ The goal of this project is to predict which customers will be churned.
 
 Project repo: https://github.com/Ededu1984/Client-Churn-Prediction
 
-### [Digit recognizer](https://github.com/Ededu1984/Digit_recognizer) - Finished
-
-Description
-MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
-
-The goal is to correctly identify digits from a dataset of tens of thousands of handwritten images.
-
-Project repo: https://github.com/Ededu1984/Digit_recognizer
-
-### [ENEM 2019](https://github.com/Ededu1984/Imersao-dados-2019) - Finished
-
-A sample of the microdata available on the INEP website was created and made available on Alura's GitHub. The objective of this 
-project was to analyze the ENEM data to assess the impact on the enrolled scores for the test.
-
-Project repo: https://github.com/Ededu1984/Imersao-dados-2019
-
 ### [Brazilian exports](https://github.com/Ededu1984/Brazilian-Exports-and-TFP) - Finished
 
 Comex Stat is a system for consulting and extracting data from Brazilian foreign trade. Detailed data on Brazilian exports and imports are released monthly, extracted from SISCOMEX and based on the declaration of exporters and importers. 
@@ -70,14 +67,6 @@ The goal of this project is to predict the exportation for the upcoming years us
 The dataset contains all trackings of monthly imports and exports of a range of products (soybeans, soybean meal, soybean oil, corn, wheat and sugar) by brazilian states.
 
 Project repo: https://github.com/Ededu1984/Brazilian-Exports-and-TFP
-
-### [Object detection Forza Horizon 4](https://github.com/Ededu1984/car_detection_forza_horizon) - Finished
-
-This computer vision project is about a object detection of Forza Horizon 4 gameplay video. Some frameworks and libraries 
-were used such as: OpenCV, YoloV4, Darknet and Numpy. 
-
-Project repo: https://github.com/Ededu1984/car_detection_forza_horizon
-
 
 ### [Health-Insurance-Prediction](https://github.com/Ededu1984/Health_Insurance_Prediction) - Finished
 
@@ -87,11 +76,3 @@ As with health insurance, customers of this new auto insurance plan need to pay 
 This project intends to predict which customers are more likely to accept this new service provided by Insurance All.
 
 Project repo: https://github.com/Ededu1984/Health_Insurance_Prediction
-
-### [Cardiovascular-Disease](https://github.com/Ededu1984/Cardiovascular-Disease) - Ongoing
-
-
-This case was created to investigate the cardiovascular condition of some individuals with the characteristics that commonly produce this kind of disease. This classification model has a dataset composed by 12 features that will 
-support the data scientist to figure out the outcome. In this case, the outcome is the patient has or not cardiovascular disease.
-
-Project repo: https://github.com/Ededu1984/Cardiovascular-Disease
