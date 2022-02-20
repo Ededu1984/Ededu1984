@@ -18,6 +18,7 @@ I have already developed solutions for important business problems such as detec
 
 **Machine Learning Deployment:** AWS Cloud and Google Cloud Platform ( GCP )  
 
+**Web development:** Django, Django Rest Framework and Flask  
 
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/edson-da-costa-eduardo-20315625/)
