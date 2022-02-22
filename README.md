@@ -74,12 +74,3 @@ The goal of this project is to predict the exportation for the upcoming years us
 The dataset contains all trackings of monthly imports and exports of a range of products (soybeans, soybean meal, soybean oil, corn, wheat and sugar) by brazilian states.
 
 Project repo: https://github.com/Ededu1984/Brazilian-Exports-and-TFP
-
-### [Health-Insurance-Prediction](https://github.com/Ededu1984/Health_Insurance_Prediction) - Finished
-
-Insurance All is a company that provides health insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: auto insurance.
-As with health insurance, customers of this new auto insurance plan need to pay an amount annually to Insurance All to obtain an amount insured by the company, intended for the costs of an eventual accident or damage to the vehicle.
-
-This project intends to predict which customers are more likely to accept this new service provided by Insurance All.
-
-Project repo: https://github.com/Ededu1984/Health_Insurance_Prediction
