@@ -52,7 +52,7 @@ were used such as: OpenCV, YoloV4, Darknet and Numpy.
 
 Project repo: https://github.com/Ededu1984/car_detection_forza_horizon
 
-Health Insurance Prediction(https://github.com/Ededu1984/Health_Insurance_Prediction) - Finished
+### [Health Insurance Prediction](https://github.com/Ededu1984/Health_Insurance_Prediction) - Finished
 
 Insurance All is a company that provides health insurance to its customers and the product team is analyzing the possibility of offering policyholders a new product: auto insurance. As with health insurance, customers of this new auto insurance plan need to pay an amount annually to Insurance All to obtain an amount insured by the company,
 intended for the costs of an eventual accident or damage to the vehicle. This project intends to predict which customers are more likely to accept this new service provided by Insurance All.
