@@ -10,7 +10,7 @@ I have already developed solutions for important business problems such as detec
 
 **Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server and Hive.
 
-**Data Processing and Analysis:** Python, Spark and Airflow.
+**Data Processing and Analysis:** Python, Pyspark and Airflow.
 
 **Development:** Git, Linux and Docker. 
 
