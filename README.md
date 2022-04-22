@@ -3,7 +3,6 @@
 
 🔭 I’m a professional focused on data science and machine learning where I have been studying since 2019. Experience with Python and Matlab in the academic area for 2 years acquired in my master's degree.
 I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
-I have already developed solutions for important business problems such as detecting fraud in transactions, classifying diseases early, identifying customers in churn, prioritizing customers for cross-selling, object detection and timeseries problems.
 
 
 **Analytical Tools:**
