@@ -13,7 +13,7 @@ I have mastery of all stages of developing a business solution using the concept
 
 **Development:** Git, Linux and Docker. 
 
-**Machine Learning Modeling:** Classification, Regression, Clustering, Time Series, Deep Learning and NLP. 
+**Machine Learning Modeling:** Classification, Regression, Clustering, Time Series and Deep Learning. 
 
 **Machine Learning Deployment:** AWS Cloud and Google Cloud Platform ( GCP )  
 
