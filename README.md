@@ -72,6 +72,6 @@ From 1934 to 1963, San Francisco was infamous for housing some of the world's mo
 Today, the city is known more for its tech scene than its criminal past. But, with rising wealth inequality, housing shortages, and a proliferation of expensive digital toys riding BART to work, there is no scarcity of crime in the city by the bay.
 From Sunset to SOMA, and Marina to Excelsior, this competition's dataset provides nearly 12 years of crime reports from across all of San Francisco's neighborhoods. Given time and location, you must predict the category of crime that occurred.
 
-The approach was to delelop a stacking model and a neural network to analyze the problem.
+The chosen approach was to develop a stacking model and a neural network to analyze the problem.
 
 Project repo: https://github.com/Ededu1984/San_Francisco_Crime_Classification
