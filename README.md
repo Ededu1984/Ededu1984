@@ -66,10 +66,11 @@ The goal of this project is to predict which customers will be churned.
 
 Project repo: https://github.com/Ededu1984/Client-Churn-Prediction
 
-### [Brazilian exports](https://github.com/Ededu1984/Brazilian-Exports-and-TFP) - Finished
+### [San Francisco Crime Classification](https://github.com/Ededu1984/San_Francisco_Crime_Classification) - Finished
 
-Comex Stat is a system for consulting and extracting data from Brazilian foreign trade. Detailed data on Brazilian exports and imports are released monthly, extracted from SISCOMEX and based on the declaration of exporters and importers. 
-The goal of this project is to predict the exportation for the upcoming years using time series algorithms.
-The dataset contains all trackings of monthly imports and exports of a range of products (soybeans, soybean meal, soybean oil, corn, wheat and sugar) by brazilian states.
+From 1934 to 1963, San Francisco was infamous for housing some of the world's most notorious criminals on the inescapable island of Alcatraz.
+Today, the city is known more for its tech scene than its criminal past. But, with rising wealth inequality, housing shortages, and a proliferation of expensive digital toys riding BART to work, there is no scarcity of crime in the city by the bay.
+From Sunset to SOMA, and Marina to Excelsior, this competition's dataset provides nearly 12 years of crime reports from across all of San Francisco's neighborhoods. Given time and location, you must predict the category of crime that occurred.
+The approach was to delelop a stacking model and a neural network to analyze the problem.
 
-Project repo: https://github.com/Ededu1984/Brazilian-Exports-and-TFP
+Project repo: https://github.com/Ededu1984/San_Francisco_Crime_Classification
