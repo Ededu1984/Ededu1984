@@ -58,7 +58,7 @@ Project repo: https://github.com/Ededu1984/car_detection_forza_horizon
 The file contains over 11,000 tweets associated with disaster keywords like “crash”, “quarantine”, and “bush fires” as well as the location and keyword itself. The data structure was inherited from Disasters on social media
 The tweets were collected on Jan 14th, 2020. The intention in this project is to predict the sentiment behind the tweets, whether it is a disaster message or not.
 
-Project repo: https://github.com/Ededu1984/Client-Churn-Prediction
+Project repo: https://github.com/Ededu1984/Disaster-tweets
 
 ### [San Francisco Crime Classification](https://github.com/Ededu1984/San_Francisco_Crime_Classification) - Finished
 
